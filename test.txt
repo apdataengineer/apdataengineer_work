@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 test file hello world bye world !
-=======
-test file hello world hello world !!
->>>>>>> main
